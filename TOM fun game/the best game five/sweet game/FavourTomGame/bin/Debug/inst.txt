@@ -1,0 +1,5 @@
+Welcom to  MarioGAME,
+Tom movement is by using the arrow right(right),
+arrow left(left) therefore Tom makes this moves to hits
+fruits in other to gain points,
+and he also douge rock to avoid lossing lifes.
