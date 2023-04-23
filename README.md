@@ -1,2 +1,2 @@
-# TOM-fun-game
-TOM fun game The game is called “Mario Fun Game”. In this game Mario is the main figure. Mario makes is movement left to right, all these movements are done by Brick in other to hit various fruits that are already at the ground also when Mario hit the fruit it can also reappear. This is beneficial to Mario as hitting the fruits will add to Mario scores. While the timer is counting down, Mario must move away from the enemy which is call the ‘brick’ to prevent him from losing and it can eventually cause the game to be over. it was develop with C# language. 
+TOM-fun-game
+Mario Game
